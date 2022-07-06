@@ -160,8 +160,10 @@ footer {
 }
 
 .footer {
-    Padding: 50px;
-    background-color: #000000;
+    padding: 50px;
+    background-image: url(../Polygond/img/p.jpeg.png);
+    background-repeat: no-repeat;
+    background-position: center;
     text-align: center;
 }
 
